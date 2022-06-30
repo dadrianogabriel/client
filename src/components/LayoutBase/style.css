@@ -1,0 +1,27 @@
+.layout {
+  min-height: 100vh;
+}
+
+.logo {
+  height: 35px;
+  margin: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.layout-header {
+  padding: 0;
+}
+
+.layout-content-margin {
+  margin: 5px 15px 0 15px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.span-funko {
+  color: #597ef7;
+  font-weight: bold;
+}
